@@ -45,7 +45,7 @@ You must install these tools on your system first.
 1.  Clone this repository from your GitHub account:
     ```powershell
     git clone [https://github.com/clawalone/Air-Mouse.git](https://github.com/clawalone/Air-Mouse.git)
-    cd gesture-control-mouse
+    cd Air-Mouse
     ```
 
 2.  Clone the TensorFlow Models repository into the `API` folder, as required by the script:
@@ -105,7 +105,7 @@ This is the most important part. We will install all packages in a specific orde
     ```powershell
     cd ..\..\..
     ```
-    *(You should be back in your `gesture-control-mouse` folder)*
+    *(You should be back in your `Air-Mouse` folder)*
     ```powershell
     pip install opencv-python pyautogui
     ```
