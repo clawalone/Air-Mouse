@@ -44,7 +44,7 @@ You must install these tools on your system first.
 
 1.  Clone this repository from your GitHub account:
     ```powershell
-    git clone [https://github.com/clawalone/gesture-control-mouse.git](https://github.com/clawalone/gesture-control-mouse.git)
+    git clone [https://github.com/clawalone/Air-Mouse.git](https://github.com/clawalone/Air-Mouse.git)
     cd gesture-control-mouse
     ```
 
